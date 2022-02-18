@@ -1,0 +1,15 @@
+body {
+  min-height: 100vh;
+  background-color: rgb(228, 203, 203);
+}
+.biBell {
+  color: white;
+}
+.firstB {
+  background-color: white;
+  color: black;
+}
+footer {
+  height: 200px;
+  width: 200px;
+}
